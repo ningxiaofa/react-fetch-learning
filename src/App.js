@@ -1,6 +1,7 @@
 // import FetchDemo1 from "./components/FetchDemo1"
 // import Parent from "./components/comunication/parent"
-import ProxyDemo from "./components/ProxyDemo"
+// import ProxyDemo from "./components/ProxyDemo"
+import ProxyDemo2 from "./components/ProxyDome2"
 
 function App() {
   return (
@@ -13,7 +14,8 @@ function App() {
         console.log('cb() in app.js');
       }}/> */}
       {/* <FetchDemo1 /> */}
-      <ProxyDemo />
+      {/* <ProxyDemo /> */}
+      <ProxyDemo2 />
     </div>
   );
 }

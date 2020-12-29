@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Insert Note:
+
+这里是使用 yarn 作为包管理器, 所以添加移除package, 都要通过 yarn 的命令. 否则会报错.
+
 ## Available Scripts
 
 In the project directory, you can run:
