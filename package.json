@@ -147,5 +147,6 @@
     "presets": [
       "react-app"
     ]
-  }
+  },
+  "proxy": "https://zhuanlan.zhihu.com"
 }
